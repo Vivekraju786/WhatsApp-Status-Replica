@@ -1,0 +1,54 @@
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+		body{
+			font-size: 120%;
+			background: #f8f8ff;
+			font-family: "montserrat",sans-serif;
+		}
+		.header{
+			width: 30%;
+			height: 25px;
+			margin: 50px auto 0px;
+			color: white;
+			background: #009688;
+			text-align: center;
+			border: 1px solid #009688;
+			border-bottom: none;
+			border-radius: 10px 10px 0px 0px;
+			padding: 20px;
+		}
+		.viewby{
+			float: left;
+		}
+		.btns{
+			float: right;
+			word-spacing: 30px;
+			margin-right: 20px;
+		}
+		.body{
+			width: 30%;
+			margin: 0px auto;
+			padding: 20px;
+			border: 1px solid #009688;
+			background-color: white;
+			border-radius: 0px 0px 10px 10px; 
+		}
+		.avatar img{
+			border-radius: 50%;
+			float: left;
+		}
+		.avatar #name{
+			float: right;
+			margin-right: 442px;
+		}
+		.avatar #name{
+			font-size: 18px;
+		}
+		.avatar #faded{
+			font-size: 15px;
+		}
+		#faded{
+			color: #808080;
+		}
